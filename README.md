@@ -11,7 +11,7 @@ Hazırlayan: Efe Oğuz Baskıncı
 Proje Özeti
 Bu çalışmada, 17,000+ satırdan oluşan gerçek bir e-ticaret müşteri veri seti kullanılarak aşağıdaki istatistiksel adımlar uygulanmıştır:
 Yaş, birim fiyat, adet, indirim tutarı, toplam sepet tutarı, oturum süresi ve teslimat süresi gibi sayısal değişkenlerin merkezi eğilim (ortalama, medyan) ve yayılım (standart sapma, min/max) ölçümleri hesaplanmıştır.
- Korelasyon Analizi: Değişkenler arasındaki doğrusal ilişkileri incelemek amacıyla  Korelasyon Matris oluşturulmuş ve değişkenler arasındaki güçlü/zayıf ilişkiler yorumlanmıştır 
+ Korelasyon Analizi: Değişkenler arasındaki doğrusal ilişkileri incelemek amacıyla  Korelasyon Matrisi oluşturulmuş ve değişkenler arasındaki güçlü/zayıf ilişkiler yorumlanmıştır 
 Veri Görselleştirme : Toplam tutar dağılımını gösteren Histogram grafiği ile birim fiyat ve toplam tutar arasındaki doğrusal eğilim çizgisiyle gösteren Saçılım Grafiği tasarlanmıştır.
 
 
