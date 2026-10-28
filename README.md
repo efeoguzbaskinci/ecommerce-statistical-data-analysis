@@ -3,7 +3,7 @@
 
 Bu proje, e-ticaret müşteri davranışları veri seti (`ecommerce_customer_behavior_dataset_v2.csv`) üzerinden gerçekleştirilen "Temel İstatistiksel Veri Analizi ve Veri Görselleştirme " çalışmalarını içermektedir. 
 
-Proje Sahibi ve Akademik Bilgi
+
 Hazırlayan: Efe Oğuz Baskıncı
  Bölüm: Erciyes Üniversitesi | Endüstri Mühendisliği (2. Sınıf)
  Ders:İstatistik Projesi / Akademik Bireysel Çalışma
